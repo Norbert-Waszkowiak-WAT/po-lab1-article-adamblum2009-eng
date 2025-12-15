@@ -1,13 +1,11 @@
 #ifndef BOOK_H
 #define BOOK_H
- 
+
 #include <iostream>
 #include <vector>
 #include "author.h"
 #include "chapter.h"
- 
 using namespace std;
- 
 class Book{
     private:
     string title;
